@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaOpenCv", "PruebaOpenCv\PruebaOpenCv.csproj", "{6978B07F-D09A-4923-94D8-51458871F4B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiferenciaFacial", "DiferenciaFacial\DiferenciaFacial.csproj", "{91416937-62EE-4F5D-A94F-123995229250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6978B07F-D09A-4923-94D8-51458871F4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6978B07F-D09A-4923-94D8-51458871F4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6978B07F-D09A-4923-94D8-51458871F4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6978B07F-D09A-4923-94D8-51458871F4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91416937-62EE-4F5D-A94F-123995229250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91416937-62EE-4F5D-A94F-123995229250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91416937-62EE-4F5D-A94F-123995229250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91416937-62EE-4F5D-A94F-123995229250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F340DAA1-0AD3-4DF0-BFAB-020D607C7084}
+	EndGlobalSection
+EndGlobal
